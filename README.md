@@ -1,5 +1,5 @@
 <h1>Hello, I'm Youri AKA Skiddoz ! :wave:</h1>
-<h3>A profile says nothing, let me show you my code</h3>
+<h3>"Talk is cheap. Show me the code." ~ Linus Torvalds</h3>
 
 <a href="https://komarev.com/ghpvc/?username=your-github-username&color=green">
 </a>
