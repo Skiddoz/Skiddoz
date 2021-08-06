@@ -1,4 +1,5 @@
 <h1>Hello, I'm Youri AKA Skiddoz ! :wave:</h1>
+<h3>A profile says nothing, let me show you my code</h3>
 
 <a href="https://komarev.com/ghpvc/?username=your-github-username&color=green">
 </a>
@@ -26,6 +27,7 @@
 
 <h2>Tools:</h2>
 <div style="display: flex;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Visual_Studio_Logo_%282013-2017%29.svg" alt="VS" height="30" width="25">
   <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" alt="VSCode" height="30" width="25">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" alt="Git" height="30" width="80">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png" alt="NPM" height="30" width="70">
