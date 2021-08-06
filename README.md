@@ -32,7 +32,3 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png" alt="AWS" height="30" width="80">
   <img src="https://getcomposer.org/img/logo-composer-transparent2.png" alt="Composer" height="30" width="30">
 </div>
-<!---
-Skiddoz/Skiddoz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
